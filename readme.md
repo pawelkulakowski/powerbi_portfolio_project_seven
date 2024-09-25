@@ -18,6 +18,8 @@ Project is in development phase.
 
 ## Breakdown by route
 
+![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_seven/blob/master/project_04.jpg?raw=true)
+
 
 
 
