@@ -2,7 +2,7 @@
 
 We’ve created a powerful dashboard tailored for the transport logistics industry, designed to provide a clear view of your key performance metrics. With real-time insights into fleet utilization, space optimization, on-time delivery rates, and cost per kilometer, along with detailed breakdowns by truck and route, this tool empowers you to make data-driven decisions that elevate your operational efficiency. Whether you’re looking to maximize your fleet’s potential or streamline delivery performance, this dashboard puts all the critical data at your fingertips.
 
-![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_seven/blob/master/frame.jpg?raw=true)
+![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_seven/blob/master/promo.png?raw=true)
 
 Why is this important? In today’s competitive logistics landscape, having a comprehensive dashboard is a game-changer. It not only helps you monitor and improve resource utilization but also ensures your deliveries are timely and cost-effective. By pinpointing inefficiencies and uncovering opportunities for optimization, you can reduce costs, enhance customer satisfaction, and ultimately drive profitability. This dashboard is more than just a tool—it’s your strategic advantage in achieving operational excellence and staying ahead of the competition.
 
